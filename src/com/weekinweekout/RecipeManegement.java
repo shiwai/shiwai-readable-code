@@ -10,12 +10,12 @@ import java.util.List;
 
 public class RecipeManegement {
 	/**
-	 * args[0] ... ƒŒƒVƒsƒtƒ@ƒCƒ‹
+	 * args[0] ... ãƒ¬ã‚·ãƒ”ãƒ•ã‚¡ã‚¤ãƒ«
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception {
 		if (args.length == 0) {
-			System.out.println("ˆê”Ô–Ú‚Ìˆø”‚É‚ÍƒŒƒVƒsƒtƒ@ƒCƒ‹‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢");
+			System.out.println("ä¸€ç•ªç›®ã®å¼•æ•°ã«ã¯ãƒ¬ã‚·ãƒ”ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒ‡å®šã—ã¦ãã ã•ã„");
 			return;
 		}
 
@@ -27,7 +27,7 @@ public class RecipeManegement {
 		File recipeFile = new File(recipeFilePath);
 
 		if (!recipeFile.exists()) {
-			throw new FileNotFoundException("ƒŒƒVƒsƒtƒ@ƒCƒ‹‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB");
+			throw new FileNotFoundException("ãƒ¬ã‚·ãƒ”ãƒ•ã‚¡ã‚¤ãƒ«ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚");
 		}
 		
 		List<String> recipeDatas = readLinesFromFile(recipeFile);
@@ -45,7 +45,7 @@ public class RecipeManegement {
 
 				do {
 					readContent = br.readLine();
-					// readLine == null ‚Ì‚Æ‚«‚Íƒtƒ@ƒCƒ‹‚ÌI‚í‚è
+					// readLine == null ã®ã¨ãã¯ãƒ•ã‚¡ã‚¤ãƒ«ã®çµ‚ã‚ã‚Š
 					if (readContent == null) {
 						break;
 					}
