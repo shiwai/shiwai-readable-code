@@ -1,14 +1,23 @@
-# g—pŒ¾Œê 
+# ä½¿ç”¨è¨€èª 
 Java
 
-# g—pIDE
+# ä½¿ç”¨IDE
 Eclipse
 
-# ‰Û‘è2
-- Eclipse‚©‚çƒŠƒ|ƒWƒgƒŠ‚ğƒNƒ[ƒ“‚·‚é
-	- uFilev¨uImportv¨uGitv¨uProjects From Gitv¨uURIv
+# èª²é¡Œ2
+- Eclipseã‹ã‚‰ãƒªãƒã‚¸ãƒˆãƒªã‚’ã‚¯ãƒ­ãƒ¼ãƒ³ã™ã‚‹
+	- ã€ŒFileã€â†’ã€ŒImportã€â†’ã€ŒGitã€â†’ã€ŒProjects From Gitã€â†’ã€ŒURIã€
 	- URL : https://github.com/shiwai/shiwai-readable-code
-- ƒvƒƒWƒFƒNƒguReadableCodev‚ğŠJ‚¢‚ÄAuÀsv
-	- Às‚Ì\¬
-		- MainClass ucom.weekinweekout.RecipeManegementv	
-		- ƒRƒ“ƒ\[ƒ‹‚ÉuƒIƒ€ƒ‰ƒCƒXv‚Æ‚¢‚¤•¶š—ñ‚ªo—Í‚³‚ê‚ê‚ÎOK
+- ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€ŒReadableCodeã€ã‚’é–‹ã„ã¦ã€ã€Œå®Ÿè¡Œã€
+	- å®Ÿè¡Œã®æ§‹æˆ
+		- MainClass ã€Œcom.weekinweekout.RecipeManegementã€	
+		- ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã«ã€Œã‚ªãƒ ãƒ©ã‚¤ã‚¹ã€ã¨ã„ã†æ–‡å­—åˆ—ãŒå‡ºåŠ›ã•ã‚Œã‚Œã°OK
+		
+# èª²é¡Œ3
+- ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆ
+	- ã‚¨ãƒ³ã‚³ãƒ¼ãƒ‡ã‚£ãƒ³ã‚° = UTF-8
+
+- å®Ÿè¡Œæ–¹æ³•
+	- ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ‘ã‚¹ã‚’ç¬¬ä¸€å¼•æ•°ã«æŒ‡å®šã™ã‚‹
+		- ex) å®Ÿè¡Œã®æ§‹æˆã®ã€ŒArgumentsã€ã«ã€Œdata/recipe-data.txtã€ã‚’æŒ‡å®š	
+	
