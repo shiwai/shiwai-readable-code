@@ -22,3 +22,8 @@ Eclipse
 	- データファイルのパスを第一引数に指定する
 		- ex) 実行の構成の「Arguments」に「data/recipe-data.txt」を指定	
 	
+# 課題4
+- その他
+	- MainClassを「com.weekinweekout.RecipeManagementConsole」に変更
+- データファイルのフォーマット
+	- 課題3と同様
